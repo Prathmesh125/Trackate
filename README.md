@@ -124,10 +124,10 @@ With four interconnected data streams — personal expenses, category budgets, g
 
 ## About the developer
 
-Built and maintained solo by **Sandesh Shinde** 
+Built and maintained solo by **Prathmesh Dawkar** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandesh_Shinde-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshdawkar/)
-[![Email](https://img.shields.io/badge/Email-sandeshshinde2026%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dawkarprathmesh99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathmesh_Dawkar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshdawkar/)
+[![Email](https://img.shields.io/badge/Email-dawkarprathmesh99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dawkarprathmesh99@gmail.com)
 
 > This is a showcase repository. Source code is private as this is a live commercial app.
 # Trackate
