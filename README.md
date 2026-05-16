@@ -34,7 +34,7 @@ Built for students and young users who want Splitwise-level bill splitting witho
 
 [![Trackate Demo](https://img.youtube.com/vi/azwJVYIfk9g/maxresdefault.jpg)](https://youtu.be/azwJVYIfk9g)
 
-*Click to watch demo*
+[*Click to watch demo*](https://youtu.be/azwJVYIfk9g)
 
 </div>
 ---
